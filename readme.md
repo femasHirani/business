@@ -1,4 +1,4 @@
-# Interior Design Page
+# business Page
 
 This is the 12th Project in the HTML & CSS Series.
 
